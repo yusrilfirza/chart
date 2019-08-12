@@ -20,6 +20,7 @@
     <link rel="stylesheet" href="assets/css/styles.css">
     <link rel="stylesheet" type="text/css" href="chartjs/dist/Chart.min.css">
     <link rel="stylesheet" href="assets/css/Footer-Dark.css">
+    <link rel="shortcut icon" href="assets/img/logo.png">
 
 </head>
 

@@ -26,3 +26,7 @@
     border-radius: 20px;
     box-shadow: 0 0 0 3px white;
 }
+
+.progress-bar {
+    width: 0px;
+}
